@@ -1,0 +1,6 @@
+venv
+data
+.idea
+*.iml
+*.ipr
+.DS_store
